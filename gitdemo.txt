@@ -1,0 +1,11 @@
+git init.
+git add gitdemo.txt
+git commit -m "comment".
+git diff.
+git status.
+git log --pretty=oneline.
+git  reset --hard HEAD^.
+git reset --hart versions-id.
+git reset HEAD gitdemo.txt.
+git checkout -- gitdemo.txt.
+cat gitdemo.txt.
